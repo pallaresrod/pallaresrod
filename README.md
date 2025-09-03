@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <p align="center">Pronouns: she / her</p>
 <h3 align="center">Web developer</h3>
-<h3 align="center">First year software engineering student at Epitech</h3>
+<h3 align="center">Second year software engineering student at Epitech</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/English-green" alt="English" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(97deg) brightness(103%) contrast(103%);" />
   <img src="https://img.shields.io/badge/Spanish-red" alt="Spanish" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(3deg) brightness(103%) contrast(103%);" />
