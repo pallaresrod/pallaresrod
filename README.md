@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ana-pallar%C3%A9s-rod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-pallarés-rod" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anapallaresrod_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallaresrod_28" height="30" width="40" /></a>
 </p>
-<p>📫 ana.pallares-rodriguez@epitech.eu</p>
+<p>📫 <a href="mailto:ana.pallares-rodriguez@epitech.eu">ana.pallares-rodriguez@epitech.eu</a></p>
