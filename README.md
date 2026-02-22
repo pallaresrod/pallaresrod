@@ -23,6 +23,8 @@
 ---
 
 ### 🤝 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-pallarés-rod/)
-<a href="mailto:ana.pallares-rodriguez@epitech.eu"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />]([https://your-portfolio.com](https://pallaresrod.github.io))
+<ul>
+  <li>💼 <a target="_blank" href="https://www.linkedin.com/in/ana-pallarés-rod/"> LinkedIn </a></li>
+  <li>🌐 Portfolio: <a href="https://pallaresrod.github.io">https://pallaresrod.github.io</a></li>
+  <li>📫 Email: <a href="mailto:ana.pallares-rodriguez@epitech.eu">ana.pallares-rodriguez@epitech.eu</a></li>
+</ul>
